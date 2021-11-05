@@ -1,0 +1,13 @@
+.im {
+   height: 200px;
+   width: 200px; 
+}
+
+footer {
+	font-style: italic;
+	text-align: center;
+}
+main {
+	left: auto;
+	right: auto;
+}
